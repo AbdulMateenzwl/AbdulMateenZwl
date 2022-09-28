@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, c++, c#**
 
-- 📫 How to reach me **abdulmateenkhanzwl@gmail.com**
+- 📫 How to reach me **notrealmateen@gmail.com**
 
 - ⚡ Fun fact **innocent 😗**
 

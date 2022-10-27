@@ -87,7 +87,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=notrealmateen&&style=flat-square)  
 
-  
+  ![Snake animation](https://github.com/notrealmateen/notrealmateen/blob/output/github-contribution-grid-snake.svg)
 
 <br/>  
 

@@ -89,7 +89,6 @@
 
   ![Snake animation](https://github.com/notrealmateen/notrealmateen/blob/output/github-contribution-grid-snake.svg)
 
-<br/>  
-
+<br/>  n
 
 <br />

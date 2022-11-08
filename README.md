@@ -1,9 +1,7 @@
 
-## Hey 👋, I'm Abdul Mateen!  
   <div style="display: flex;
   justify-content: space-between;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hi+👋,+I'm+Abdul+Mateen.;Talk+is+Cheep,+Let's+Code⌨💻.">
-  <img src="https://media.discordapp.net/attachments/738887508590461019/738887963764850718/hello.gif" align = "right">
 </div>
 
 <a href="https://github.com/notrealmateen" target="_blank">

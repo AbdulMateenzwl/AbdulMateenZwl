@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="k3drJLCsKicga5U-VagaE0Mj0coWgDXOL49dyoLxArY" />
+<meta name="google-site-verification" content="k3drJLCsKicga5U-VagaE0Mj0coWgDXOL49dyoLxArY" />
   </head>
   <div style="display: flex;
   justify-content: space-between;">

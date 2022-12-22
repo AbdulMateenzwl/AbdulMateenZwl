@@ -1,6 +1,4 @@
-<head>
-<meta name="google-site-verification" content="k3drJLCsKicga5U-VagaE0Mj0coWgDXOL49dyoLxArY" />
-  </head>
+
   <div style="display: flex;
   justify-content: space-between;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hi+👋,+I'm+Abdul+Mateen.;Talk+is+Cheep,+Let's+Code⌨💻.">

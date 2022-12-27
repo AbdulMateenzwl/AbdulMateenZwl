@@ -1,4 +1,5 @@
-
+# [ABDUL MATEEN](https://www.instagram.com/notrealmateen/)
+## notrealmateen@gmail.com
   <div style="display: flex;
   justify-content: space-between;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hi+👋,+I'm+Abdul+Mateen.;Talk+is+Cheep,+Let's+Code⌨💻.">
@@ -27,7 +28,6 @@
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently [studing and learning new things](https://www.facebook.com/notrealmateen)😍  

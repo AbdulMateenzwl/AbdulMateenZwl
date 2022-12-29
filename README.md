@@ -35,8 +35,7 @@
   
 
 - ❓ Ask me about anything related to <b>Programming and Data Structure and Algorithms</b>  
-
-- 📧 Contact me : notrealmateen@gmail.com  
+  
 
 - ⚡ Fun fact: <b> Night Owl 🦉</b>  
 

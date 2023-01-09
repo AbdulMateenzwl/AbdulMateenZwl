@@ -1,20 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[Abdul Mateen](https://www.instagram.com/notrealmateen/)
-
-
-
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [Abdul Mateen](https://www.instagram.com/notrealmateen/)
 ### notrealmateen@gmail.com 
-
 ### [/notrealmateen](https://www.google.com/search?q=notrealmateen&rlz=1C1CHBF_enPK1018PK1018&oq=notrealmateen&aqs=chrome.0.69i59l3j69i57j69i59j69i65l2j69i61.2912j0j7&sourceid=chrome&ie=UTF-8)
 
 * 🔭 I’m currently working on [Data Base Managment System](https://github.com/notrealmateen)  
-  
-
 * 🌱 I’m currently learning DBMS using SQL
-  
-
 * ❓ Ask me about anything related to C++, C#, Object Oriented Programming and Data Structure and Algorithms
-  
-
 * ⚡ Fun fact: I remember all my [Passwords](https://facebook.com/notrealmateen).
 <br/>  
 

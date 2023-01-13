@@ -5,7 +5,7 @@
 * 🔭 I’m currently working on [Data Base Managment System](https://github.com/notrealmateen)  
 * 🌱 I’m currently learning DBMS using SQL
 * ❓ Ask me about anything related to C++, C#, Object Oriented Programming and Data Structure and Algorithms
-* ⚡ Fun fact: I use VIM [Passwords](https://facebook.com/notrealmateen).
+* ⚡ Fun fact: I use [VIM](https://instagram.com/notrealmateen).
 <br/>  
 
 ## My Skill Set  

@@ -1,11 +1,11 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [Abdul Mateen](https://www.instagram.com/notrealmateen/)
-### notrealmateen@gmail.com 
-### [/notrealmateen](https://www.google.com/search?q=notrealmateen&rlz=1C1CHBF_enPK1018PK1018&oq=notrealmateen&aqs=chrome.0.69i59l3j69i57j69i59j69i65l2j69i61.2912j0j7&sourceid=chrome&ie=UTF-8)
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [Abdul Mateen](https://www.instagram.com/abdulmateenzwl/)
+### abdulmateenzwl@gmail.com 
+### [/abdulmateenzwl](https://www.google.com/search?q=abdulmateenzwl&rlz=1C1CHBF_enPK1018PK1018&oq=abdulmateenzwl&aqs=chrome.0.69i59l3j69i57j69i59j69i65l2j69i61.2912j0j7&sourceid=chrome&ie=UTF-8)
 
-* 🔭 I’m currently working on [Data Base Managment System](https://github.com/notrealmateen)  
+* 🔭 I’m currently working on [Data Base Managment System](https://github.com/abdulmateenzwl)  
 * 🌱 I’m currently learning DBMS using SQL
 * ❓ Ask me about anything related to C++, C#, Object Oriented Programming and Data Structure and Algorithms
-* ⚡ Fun fact: I use [VIM](https://instagram.com/notrealmateen).
+* ⚡ Fun fact: I use [VIM](https://instagram.com/abdulmateenzwl).
 <br/>  
 
 ## My Skill Set  
@@ -53,52 +53,52 @@
 
 <div align="center">
 
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notrealmateen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notrealmateen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notrealmateen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/notrealmateen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@notrealmateen) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/notrealmateen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abdul-Mateen-1199) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/notrealmateen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@notrealmateen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19561209/notrealmateen) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/notrealmateen)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulmateenzwl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulmateenzwl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmateenzwl) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulmateenzwl) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdulmateenzwl) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdulmateenzwl) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abdul-Mateen-1199) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abdulmateenzwl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abdulmateenzwl) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19561209/abdulmateenzwl) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abdulmateenzwl)
 
 
 </div>  
 
 
 <p align="center">
-<a href="https://www.github.com/notrealmateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://codesandbox.io/u/notrealmateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> 
-<a href="https://www.codepen.io/notrealmateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
- <a href="https://www.dev.to/notrealmateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
-  <a href="https://notrealmateen.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
-   <a href="http://www.medium.com/@notrealmateen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/abdulmateenzwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://codesandbox.io/u/abdulmateenzwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> 
+<a href="https://www.codepen.io/abdulmateenzwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+ <a href="https://www.dev.to/abdulmateenzwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
+  <a href="https://abdulmateenzwl.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
+   <a href="http://www.medium.com/@abdulmateenzwl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
 
 </p>
 
 <p align="center">
-<a href="https://www.codechef.com/users/notrealmateen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="notrealmateen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/notrealmateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="notrealmateen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/notrealmateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="notrealmateen" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@notrealmateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="notrealmateen" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/notrealmateen/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="notrealmateen/profile" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abdulmateenzwl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdulmateenzwl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abdulmateenzwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulmateenzwl" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdulmateenzwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulmateenzwl" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@abdulmateenzwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abdulmateenzwl" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abdulmateenzwl/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdulmateenzwl/profile" height="30" width="40" /></a>
 
 </p>
 
 ## 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=notrealmateen&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=notrealmateen&theme=dark&hide_border=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=abdulmateenzwl&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmateenzwl&theme=dark&hide_border=false)
 
-<!-- <a href="https://github.com/notrealmateen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrealmateen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<!-- <a href="https://github.com/abdulmateenzwl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmateenzwl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<a href="http://www.github.com/notrealmateen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=notrealmateen&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br/>
+<a href="http://www.github.com/abdulmateenzwl"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdulmateenzwl&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=notrealmateen&theme=radical&no-frame=false&no-bg=true&margin-w=2)
+![](https://github-profile-trophy.vercel.app/?username=abdulmateenzwl&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
 </div>
 <br/>  
 
 ## Latest Tweet 
 
-![](https://gtce.itsvg.in/api?username=notrealmateen)
+![](https://gtce.itsvg.in/api?username=abdulmateenzwl)
 
 ### Today's Quote:
 
@@ -106,7 +106,7 @@
 
 ### Do not Support
 
-<p><a href="https://www.buymeacoffee.com/notrealmateen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="notrealmateen" /></a><a href="https://ko-fi.com/notrealmateen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="notrealmateen" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/abdulmateenzwl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdulmateenzwl" /></a><a href="https://ko-fi.com/abdulmateenzwl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abdulmateenzwl" /></a></p><br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=notrealmateen&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdulmateenzwl&icon=7&color=1)](https://visitcount.itsvg.in)

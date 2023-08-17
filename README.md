@@ -1,4 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [Abdul Mateen](https://www.instagram.com/abdulmateenzwl/)
+
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=900&size=24&duration=1800&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Web+Developer;Web+Designer;Computer+Scientist+'25;Problem+Solver;MERN+Intern+@+Tiers+Ltd;" alt="Typing SVG" /></a>
+  </p>
+
 ### abdulmateenzwl@gmail.com 
 ### [/abdulmateenzwl](https://www.google.com/search?q=abdulmateenzwl&rlz=1C1CHBF_enPK1018PK1018&oq=abdulmateenzwl&aqs=chrome.0.69i59l3j69i57j69i59j69i65l2j69i61.2912j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -78,14 +83,11 @@
 
 </p>
 
-## 📊 GitHub Stats:
+## Profile Statistics:
+Stats|Streak|Languages
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulmateenzwl&theme=react)|[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulmateenzwl&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulmateenzwl&theme=react)|
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=abdulmateenzwl&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmateenzwl&theme=dark&hide_border=false)
-
-<!-- <a href="https://github.com/abdulmateenzwl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmateenzwl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
-<a href="http://www.github.com/abdulmateenzwl"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdulmateenzwl&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br/>
 
 ## 🏆 GitHub Trophies
 
@@ -109,4 +111,10 @@
 <p><a href="https://www.buymeacoffee.com/abdulmateenzwl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdulmateenzwl" /></a><a href="https://ko-fi.com/abdulmateenzwl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abdulmateenzwl" /></a></p><br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdulmateenzwl&icon=7&color=1)](https://visitcount.itsvg.in)
+
+## Profile Views:
+<p align="center"> 
+    <img src="https://profile-counter.glitch.me/abdulmateenzwl/count.svg" />
+  Views<br>
+  
+</p>

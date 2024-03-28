@@ -7,9 +7,9 @@
 ### abdulmateenzwl@gmail.com 
 ### [/abdulmateenzwl](https://www.google.com/search?q=abdulmateenzwl&rlz=1C1CHBF_enPK1018PK1018&oq=abdulmateenzwl&aqs=chrome.0.69i59l3j69i57j69i59j69i65l2j69i61.2912j0j7&sourceid=chrome&ie=UTF-8)
 
-* 🔭 I’m currently working on [Data Base Managment System](https://github.com/abdulmateenzwl)  
+* 🔭 I’m currently Learning [DEVOPs](https://github.com/abdulmateenzwl)  
 * 🌱 I’m currently learning DBMS using SQL
-* ❓ Ask me about anything related to C++, C#, Object Oriented Programming and Data Structure and Algorithms
+* ❓ Ask me about anything related to C++, C#, Object Oriented Programming and Data Structure and Algorithms, DBMS, Software Engineering
 * ⚡ Fun fact: I use [VIM](https://instagram.com/abdulmateenzwl).
 <br/>  
 
